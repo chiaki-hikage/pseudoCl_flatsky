@@ -16,10 +16,10 @@
 また、すばるハイパーシュプリームカムの観測データに応用し、宇宙論情報を引き出すのにも使われました。
 
 References:  
-Shear Power Spectrum Reconstruction using Pseudo-Spectrum Method  
+- Shear Power Spectrum Reconstruction using Pseudo-Spectrum Method  
 Chiaki Hikage, Masahiro Takada, Takashi Hamana, David Spergel  
 Mon. Not. Roy. Astron. Soc., Vol.412 Issue 1 (2011), 65-74
 
-Cosmology from cosmic shear power spectra with Subaru Hyper Suprime-Cam first-year data  
+- Cosmology from cosmic shear power spectra with Subaru Hyper Suprime-Cam first-year data  
 Chiaki Hikage, Masamune Oguri, Takashi Hamana, et al.  
 Publ. Astron. Soc. Japan, Vol.71, Issue 2, 43 (2019)  
