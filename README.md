@@ -20,8 +20,6 @@ Shear Power Spectrum Reconstruction using Pseudo-Spectrum Method
 Chiaki Hikage, Masahiro Takada, Takashi Hamana, David Spergel  
 Mon. Not. Roy. Astron. Soc., Vol.412 Issue 1 (2011), 65-74
 
-Cosmology from cosmic shear power spectra with Subaru Hyper Suprime-Cam first-year data
-
-Chiaki Hikage, Masamune Oguri, Takashi Hamana, Surhud More, Rachel Mandelbaum, Masahiro Takada, Fabian Köhlinger, Hironao Miyatake, Atsushi J. Nishizawa, Hiroaki Aihara, Robert Armstrong, James Bosch, Jean Coupon, Anne Ducout, Paul Ho, Bau-Ching Hsieh, Yutaka Komiyama, François Lanusse, Alexie Leauthaud, Robert H. Lupton Elinor Medezinski, Sogo Mineo, Shoken Miyama, Satoshi Miyazaki, Ryoma Murata, Hitoshi Murayama, Masato Shirasaki, Cristóbal Sifón, Melanie Simet, Joshua Speagle, David N. Spergel, Michael A. Strauss, Naoshi Sugiyama, Masayuki Tanaka, Yousuke Utsumi, Shiang-Yu Wang, Yoshihiko Yamada
-
-Publ. Astron. Soc. Japan, Vol.71, Issue 2, 43 (2019)
+Cosmology from cosmic shear power spectra with Subaru Hyper Suprime-Cam first-year data  
+Chiaki Hikage, Masamune Oguri, Takashi Hamana, et al.  
+Publ. Astron. Soc. Japan, Vol.71, Issue 2, 43 (2019)  
