@@ -33,9 +33,6 @@ You can see the results of binned power spectrum in the file "sumpow.dat"
    5th line: masked power (E-mode shear)
    6-9th line: same as 2-5th line but for B-mode shear power
 
-The details are written in the following papers:
- C. Hikage et al. Mon. Not. Roy. Astron. Soc. 412 (2011), 65-74
-
 # 内容
 本コードは2次元平面として近似できる天域領域において、弱い重力レンズ効果のゆがみ(シアー)場のパワースペクトルを測定するコードです。
 
