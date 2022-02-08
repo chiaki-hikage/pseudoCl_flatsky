@@ -1,21 +1,21 @@
 This is the code for computing psuedo Cl from the masked/weighted shear in flat approximation.
 The code includes the following files
 
- README
- Makefile 
- iparam.sh : a shell script to set parameters (grid number, box size...)
- iparam.f90 : set basic parameters
- default.inp : default parameters for iparam.f90
- test.sh: a shell script to test the shear power reconstruction
- sheardist.f90 : make a shear catalog from Gaussian shear fields
- starmask.f90 : simulate mask of weak lensing data 
- maskinfo.f90 : set parameters for simulated masks
- modemat_square.f90 : compute mode coupling matrix of a square patch of sky
- modemat_inside.f90 : compute mode coupling matrix of the simulated mask
- shearpow.f90 : compute the shear power spectrum from shear catalogs
- deconv.f90 : (de)convolve the shear power spectrum
- collect.f90 : collect files of output power spectrum into one file
- sub.f90 : subroutines
+ * README
+ * Makefile
+ * iparam.sh : a shell script to set parameters (grid number, box size...)
+ * iparam.f90 : set basic parameters
+ * default.inp : default parameters for iparam.f90
+ * test.sh: a shell script to test the shear power reconstruction
+ * sheardist.f90 : make a shear catalog from Gaussian shear fields
+ * starmask.f90 : simulate mask of weak lensing data 
+ * maskinfo.f90 : set parameters for simulated masks
+ * modemat_square.f90 : compute mode coupling matrix of a square patch of sky
+ * modemat_inside.f90 : compute mode coupling matrix of the simulated mask
+ * shearpow.f90 : compute the shear power spectrum from shear catalogs
+ * deconv.f90 : (de)convolve the shear power spectrum
+ * collect.f90 : collect files of output power spectrum into one file
+ * sub.f90 : subroutines
 
 To run the code, 
 
@@ -25,13 +25,12 @@ To run the code,
    it may take about 5mins
  
 You can see the results of binned power spectrum in the file "sumpow.dat"
-
-   1st line: l
-   2nd line: input power (convergence)
-   3rd line: deconvolved power (E-mode shear)
-   4th line: convolved power (E-mode shear)
-   5th line: masked power (E-mode shear)
-   6-9th line: same as 2-5th line but for B-mode shear power
+ * 1st line: l
+ * 2nd line: input power (convergence)
+ * 3rd line: deconvolved power (E-mode shear)
+ * 4th line: convolved power (E-mode shear)
+ * 5th line: masked power (E-mode shear)
+ * 6-9th line: same as 2-5th line but for B-mode shear power
 
 # 内容
 本コードは2次元平面として近似できる天域領域において、弱い重力レンズ効果のゆがみ(シアー)場のパワースペクトルを測定するコードです。
